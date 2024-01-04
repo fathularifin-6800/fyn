@@ -7,7 +7,7 @@ import { Typewriter } from "react-simple-typewriter";
 const Footer = () => {
   const [fotter] = useState(['MY BLOG'])
     return ( 
- <footer className="footer footer-center p-10 bg-base-200 text-base-content rounded">
+ <footer className="footer footer-center p-10 bg-neutral-900 text-base-content rounded">
   <nav className="grid grid-flow-col gap-4">
     <Links/>
   </nav> 
