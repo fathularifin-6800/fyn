@@ -11,7 +11,7 @@ const Page = () => {
   ])
   const buttonHome = "Visit my About"
   return (
-    <main className="flex min-h-screen  items-center justify-between flex-col">
+    <main className="flex min-h-screen  items-center justify-between flex-col bg-neutral-900">
         <div className="text-success text-2xl md:text-5xl font-bold mt-56">
           <p className="text-white">Hi....</p>
             <Typewriter 
