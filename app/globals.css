@@ -3,5 +3,6 @@
 @tailwind utilities;
 
 body{
-   background: rgb(10, 10, 10);
+    @apply
+    bg-neutral-900
 }
