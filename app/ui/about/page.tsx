@@ -8,7 +8,7 @@ const About = () => {
     const buttonAbout = "Follow me";
     return ( 
         <div className="mt-20">
-            <div className="hero min-h-screen bg-base-100">
+            <div className="hero min-h-screen bg-neutral-900">
                 <div className="hero-content text-center">
                     <div className="max-w-md">
                     <h1 className="text-5xl font-bold text-success">
